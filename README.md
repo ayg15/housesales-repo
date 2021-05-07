@@ -1,9 +1,8 @@
 # House Sales Prediction in King County USA
 
-We will be using data from a Kaggle data set:
-https://www.kaggle.com/harlfoxem/housesalesprediction
+House sales data from Kaggle data set (https://www.kaggle.com/harlfoxem/housesalesprediction) is used here. This dataset contains house sale prices for King County USA. The data set includes data of houses sold between May 2014 and May 2015.
 
-#### Feature Columns
+#### The Feature Columns
     
 * id - Unique ID for each home sold
 * date - Date of the home sale
